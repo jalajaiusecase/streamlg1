@@ -3,3 +3,4 @@ plotly==5.5.0
 streamlit==1.11.0
 streamlit_option_menu
 openpyxl
+matplotlib
